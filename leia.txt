@@ -1,3 +1,2 @@
 Só abrir o xampp e jogar a pasta "atividade_crud" no htdocs que vai dar bom
 
-Obrigado pelos pontos!
